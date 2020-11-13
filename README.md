@@ -1,16 +1,16 @@
-### Hi there 👋
+# Howdy!
 
-<!--
-**YellowApple/YellowApple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ryan S. Northrup, a.k.a. "RyNo", a polyglot programmer/sysadmin and wannabe [polymath](https://en.wikipedia.org/wiki/Polymath) in ["The Biggest Little City in the World"](https://en.wikipedia.org/wiki/Reno,_Nevada)
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm an SRE at [ShipHawk](https://shiphawk.com)
+- I hacked together a [scripting language for Erlang/OTP](https://otpcl.github.io)
+- I designed a [duotrigesimal number system](https://base32h.github.io)
+- I made a [Ruby command-line app framework](https://github.com/YellowApple/bales) a long time ago
+- I'm a core contributor for the [Sugar web framework](https://sugar-framework.github.io)
+
+## Some stats
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=yellowapple&show_icons=true&locale=en&layout=compact&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yellowapple&show_icons=true&locale=en&count_private=true)
