@@ -4,7 +4,7 @@ I'm Ryan S. Northrup, a.k.a. "RyNo", a polyglot programmer/sysadmin and wannabe 
 
 ## What I do
 
-- SRE at [ShipHawk](https://shiphawk.com)
+- Consultant at [Taos](https://www.taos.com/)
 - Hacked together a [scripting language for Erlang/OTP](https://otpcl.github.io)
 - Designed a [duotrigesimal number system](https://base32h.github.io)
 - Made a [Ruby command-line app framework](https://github.com/YellowApple/bales) a long time ago
